@@ -1,0 +1,32 @@
+body
+{
+    /* background-color: blueviolet; */
+}
+
+#navbar{
+    flex-direction: column;
+}
+
+.home{
+    height:280;
+    
+}
+
+.home::
+
+.services{
+    flex-direction: column;
+    /* padding-bottom:20px; */
+}
+
+.client-container{
+    overflow: hidden;
+}
+
+.contact-container{
+
+}
+
+footer{
+    
+}
